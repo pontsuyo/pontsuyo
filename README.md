@@ -16,7 +16,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pontsuyo" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pontsuyo" alt="GitHub Streak" />
 </p>
 
 ---
