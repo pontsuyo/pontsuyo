@@ -13,14 +13,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pontsuyo" alt="GitHub Streak" />
-</p>
-
----
-
 ### Projects
 
 - [fastTextJapaneseTutorial](https://github.com/pontsuyo/fastTextJapaneseTutorial) - Tutorial to train fastText with Japanese corpus
